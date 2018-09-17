@@ -6,6 +6,6 @@ abstract class Animal{
 		this.legs=legs;
 	}
 	public int getLegs(){
-		return(legs)
+		return legs;
 	}
 }
